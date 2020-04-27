@@ -9,5 +9,4 @@ I created a form that takes an image and some text. When the user selects an ima
 ======================================================
 
 #BooK Record Mangement System--
-
 Core php+mysql book record system....
